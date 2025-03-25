@@ -1,6 +1,5 @@
 # udemy---react
 
-# Udemy React Project
 
 This is a simple React application inspired by the Udemy platform. It displays various sections such as a navigation bar, categories, sale images, recommended courses, popular topics, and footer content.
 
